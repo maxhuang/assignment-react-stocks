@@ -1,0 +1,17 @@
+.auth-presentor {
+    width: 450px;
+    height: auto;
+    min-height: 500px;
+    margin: auto;
+    padding: 48px 40px;
+    flex-direction: column;
+}
+
+.dialogue-border {
+    border-radius: 8px;
+    border: 1px solid #d3d3d3;
+}
+
+.dialogue-top-spacer {
+    min-height: 3em;
+}
